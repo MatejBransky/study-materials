@@ -1,8 +1,4 @@
-# study-materials
-Links to helpful resources
-
-
-## What to know?
+## Study notes
 
 ### Online editors
 - Codepen
