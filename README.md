@@ -38,8 +38,10 @@
 ### Style guide
 - https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript
 - ESlint
+- Prettier
 
 ### Automation
+- [create-react-app](https://github.com/facebook/create-react-app)
 - [nwb](https://github.com/insin/nwb)
 
 ### RegEx
@@ -56,3 +58,85 @@
 - https://reactpatterns.com
 - Redux
 - GatsbyJS
+- vx
+- react-motion
+- react-move
+- pose - declarative animations (simple and complex)
+- svgr - icon builder
+- styled-components - CSS
+- immer - immutable transforms
+- classcat
+- normalizr
+- react-router
+- storybook
+
+### VS Code
+#### extensions
+- Babel JavaScript (still?)
+- Debugger for Chrome
+- Bracket Pair Colorizer
+- ESLint
+- Git History
+- HTMLHint (still?)
+- Import Cost
+- Prettier
+- SVG Viewer (still?)
+- vscode-styled-components
+- npm
+#### settings
+```json
+{
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "One Monokai",
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "jsx",
+    "latte": "html",
+    "php": "html",
+    "phtml": "html"
+  },
+  "files.eol": "\n",
+  "emmet.showExpandedAbbreviation": "always",
+  "window.zoomLevel": 0,
+  "files.defaultLanguage": "javascript",
+  "editor.tabSize": 2,
+  "eslint.options": {
+    "envs": [
+      "es6"
+    ],
+    "parser": "babel-eslint",
+    "parserOptions": {
+      "ecmaVersion": 2017,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "experimentalObjectRestSpread": true,
+        "jsx": true
+      }
+    },
+    "rules": {
+      "linebreak-style": [
+        "off"
+      ],
+      "quotes": [
+        "off"
+      ]
+    }
+  },
+  "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe",
+  "editor.rulers": [
+    80
+  ],
+  "extensions.ignoreRecommendations": true,
+  "prettier.semi": true,
+  "editor.minimap.enabled": false,
+  "typescript.autoImportSuggestions.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.implicitProjectConfig.checkJs": false,
+  "git.autofetch": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.enableSmartCommit": true,
+  "editor.snippetSuggestions": "none"
+}
+```
