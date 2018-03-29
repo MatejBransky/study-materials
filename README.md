@@ -50,8 +50,14 @@
 
 ### Frameworks / libraries
 - React, virtual DOM
-- state management (Redux, Mobx)
+- state management (Redux, Mobx - especially mobx-state-tree)
 - date/time (MomentJS, Date-fns)
+- KaTeX (Math)
+- d3.js
+- Ramda
+- Lodash
+- Jest
+- tape
 
 ### React environment
 - https://react.holiday/
@@ -69,6 +75,8 @@
 - normalizr
 - react-router
 - storybook
+- react-redux-form
+- react-jsonschema-form
 
 ### VS Code
 #### extensions
