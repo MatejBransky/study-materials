@@ -1,9 +1,18 @@
 ## Study notes
 
-### Online editors
+### Independent tools
 - Codepen
 - CodeSandbox
 - Stackblitz
+- IcoMoon (icons)
+- Figma (SVG editor)
+- [ScreenToGif](http://www.screentogif.com/)
+- OBS Studio (screen recording)
+- Cmder (better cmd)
+- VS Code
+- [Observable](https://beta.observablehq.com/)
+- Carbon.now.sh
+- [CSV to JSON](https://www.csvjson.com/csv2json)
 
 ### Bundlers / automation
 - Webpack
@@ -17,6 +26,7 @@
 - https://github.com/AllThingsSmitty/must-watch-javascript (video)
 - https://css-tricks.com/debouncing-throttling-explained-examples/
 - https://eu.udacity.com/course/javascript-design-patterns--ud989
+- DevDocs
 
 
 
@@ -58,6 +68,7 @@
 - Lodash
 - Jest
 - tape
+- math.js
 
 ### React environment
 - https://react.holiday/
