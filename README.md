@@ -66,7 +66,7 @@
 - d3.js
 - Ramda
 - Lodash
-- Jest
+- Jest, react-testing-library, dom-testing-library
 - tape
 - math.js
 
@@ -75,10 +75,9 @@
 - https://reactpatterns.com
 - Redux
 - GatsbyJS
-- vx
-- react-motion
-- react-move
-- pose - declarative animations (simple and complex)
+- Recompose
+- vx (d3.js for React)
+- animations: react-spring / pose (popmotion) / react-motion / react-move (in this order)
 - svgr - icon builder
 - styled-components - CSS
 - immer - immutable transforms
@@ -86,7 +85,7 @@
 - normalizr
 - react-router
 - storybook
-- react-redux-form
+- react-redux-form / Formik
 - react-jsonschema-form
 
 ### VS Code
@@ -102,6 +101,7 @@
 - SVG Viewer (still?)
 - vscode-styled-components
 - npm
+
 #### settings
 ```json
 {
