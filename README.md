@@ -44,6 +44,7 @@
 - currying
 - pipe
 - pure functions
+- __reducer pattern__ (Redux)
 
 ### Style guide
 - https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript
