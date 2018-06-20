@@ -1,3 +1,6 @@
+# First of all
+- disable autocrlf on Windows with `git config --global autocrlf false`
+
 ## Study notes
 
 ### Independent tools
